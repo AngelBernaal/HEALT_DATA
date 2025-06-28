@@ -17,3 +17,5 @@ Los hallazgos de este análisis podrían proporcionar **información valiosa** p
 * Identificar factores de riesgo y protectores relacionados con el estilo de vida.
 * Informar campañas de salud pública y recomendaciones personalizadas para un mayor bienestar.
 * Guiar futuras investigaciones sobre la causalidad y los mecanismos subyacentes de las relaciones entre estilo de vida y salud.
+
+**Link**: https://healtdataset.netlify.app/
