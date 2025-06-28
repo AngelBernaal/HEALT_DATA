@@ -1,0 +1,38 @@
+REQUISITOS DEL PROYECTO
+
+ENTORNO DE DESARROLLO:
+
+* Jupyter Notebook (o JupyterLab).
+* Python 3.x.
+
+LIBRERÍAS Y DEPENDENCIAS:
+
+* pandas.
+* plotly.
+* plotly-express.
+* matplotlib
+
+
+DATOS:
+
+* Dataset de Kaggle: "Health and Lifestyle Dataset" (nombre de archivo: health.csv).
+* El dataset debe estar ubicado en una ruta accesible desde el Jupyter Notebook (preferiblemente en una subcarpeta data/).
+
+ESTRUCTURA DEL PROYECTO:
+
+* Carpeta principal del proyecto.
+* Subcarpeta notebooks/ (para los archivos .ipynb).
+* Subcarpeta data/ (para el archivo health.csv).
+* Archivo README.md.
+* Archivo requirements.txt.
+
+OBJETIVOS DEL PROYECTO:
+
+* Carga y comprensión inicial de los datos: Familiarización con la estructura y los tipos de datos del health.csv.
+
+ENTREGABLES:
+
+* Archivo .ipynb (con el código y los análisis).
+* Dataset utilizado (health.csv).
+* Archivo requirements.txt.
+* Archivo README.md.
